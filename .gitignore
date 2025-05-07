@@ -1,0 +1,7 @@
+venv310/
+fake-news-env/
+*.dylib
+*.csv
+*.so
+__pycache__/
+*.pyc
